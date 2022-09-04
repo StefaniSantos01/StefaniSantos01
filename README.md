@@ -1,6 +1,6 @@
 ### Sejam bem -vindxs!Eu sou a Stefani Santos
 
-- 🔭 Atualamente trabalho na empresa Bosch
+- 🔭 Atualmente trabalho na empresa Bosch
 - 🌱 Estou estudando Java.
 - 📫 Contacte-me por: stefanicristina1102@hotmail.com
 - 😄 Pronouns:Ela/dela
