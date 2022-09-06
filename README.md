@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho na empresa Bosch
 - 🌱 Estou estudando Java.
 - 📫 Contacte-me por: stefanicristina1102@hotmail.com
-- 😄 Pronouns:Ela/dela
+- 😄 Pronomes:Ela/dela
 
 <div align="center">
   <a href="https://github.com/stefanisantos01">
@@ -14,8 +14,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+           
     
-    ##
  
 <div> 
  
