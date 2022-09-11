@@ -1,4 +1,4 @@
-### Sejam bem -vindos!Eu sou a Stefani Santos
+### Sejam bem - vindos! Eu sou a Stefani Santos
 
 - 🔭 Atualmente trabalho na empresa Bosch
 - 🌱 Estou estudando Java.
