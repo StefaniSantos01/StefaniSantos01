@@ -1,9 +1,9 @@
-### Sejam bem - vindos! Eu sou a Stefani Santos
+### Welcome ! I´m  Stefani Santos
 
-- 🔭 Atualmente trabalho na empresa Bosch
-- 🌱 Estou estudando Java.
-- 📫 Contacte-me por: stefanicristina1102@hotmail.com
-- 😄 Pronomes:Ela/dela
+- 🔭 Currently working at Bosch.
+- 🌱 I´m studiyng Java.
+- 📫 Contact me for: stefanicristina1102@hotmail.com
+- 😄 Pronouns:She/Her.
 
 <div align="center">
   <a href="https://github.com/stefanisantos01">
