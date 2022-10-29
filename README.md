@@ -1,4 +1,4 @@
-### Welcome ! I´m  Stefani Santos
+### Welcome ! I´m  Stefani Santos.
 
 - 🔭 Currently working at Bosch.
 - 🌱 I´m studiyng Java.
