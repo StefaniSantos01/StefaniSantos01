@@ -1,6 +1,6 @@
 ### Welcome ! I´m  Stefani Santos.
 
-- 🔭 Currently working at Bosch.
+- 🔭 Currently working.
 - 🌱 I´m studiyng Java.
 - 📫 Contact me for: stefanicristina1102@hotmail.com
 - 😄 Pronouns:She/Her.
