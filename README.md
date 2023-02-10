@@ -1,7 +1,7 @@
 ### Welcome ! I´m  Stefani Santos.
 
 - 🔭 Currently working.
-- 🌱 I´m studiyng Java.
+- 🌱 I´m studiyng Java and Information Technology 👩🏽‍💻
 - 📫 Contact me for: stefanicristina1102@hotmail.com
 - 😄 Pronouns:She/Her.
 
